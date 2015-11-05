@@ -1,6 +1,10 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+strong{
+	font-variant: small-caps;
+}
+
 section > header{
 	text-align: center;
 }
@@ -15,16 +19,17 @@ section > header{
 	display: inline-block;
 }
 
-i i{
+i i,
+table span{
 	font-style: normal;
+}
+
+table td:first-child{
+	text-align: right;
 }
 
 table{
 	margin: 1em;
-}
-
-table td{
-	vertical-align: top;
 }
 
 table ul{
