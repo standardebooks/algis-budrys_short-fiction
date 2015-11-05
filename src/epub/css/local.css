@@ -33,8 +33,17 @@ table ul{
 	list-style: none;
 }
 
-#riyas-foundling blockquote p{
+.thought{
+	font-style: italic;
+}
+
+.thought p{
 	text-indent: 0;
+}
+
+.thought i,
+.thought em{
+	font-style: normal;
 }
 
 *[epub|type~="z3998:poem"] p,
