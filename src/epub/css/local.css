@@ -1,7 +1,8 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-strong{
+strong,
+b{
 	font-variant: small-caps;
 }
 
@@ -42,7 +43,8 @@ table ul{
 	font-style: italic;
 }
 
-.thought p{
+.thought p,
+table + p{
 	text-indent: 0;
 }
 
