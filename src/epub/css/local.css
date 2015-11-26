@@ -14,7 +14,7 @@ section > header{
 	text-align: center;
 }
 
-*[epub|type~="epigraph"]{
+[epub|type~="epigraph"]{
 	font-style: italic;
 	hyphens: none;
 	margin: 3em;
@@ -24,7 +24,7 @@ section > header{
 	display: inline-block;
 }
 
-*[epub|type~="epigraph"] cite{
+[epub|type~="epigraph"] cite{
 	margin-top: 1em;
 	font-style: normal;
 	font-variant: small-caps;
@@ -63,29 +63,29 @@ table + p{
 	font-style: normal;
 }
 
-*[epub|type~="z3998:poem"] p,
-*[epub|type~="z3998:verse"] p{
+[epub|type~="z3998:poem"] p,
+[epub|type~="z3998:verse"] p{
 	text-align: left;
 	text-indent: 0;
 }
 
-*[epub|type~="z3998:poem"] p span,
-*[epub|type~="z3998:verse"] p span{
+[epub|type~="z3998:poem"] p span,
+[epub|type~="z3998:verse"] p span{
 	display: block;
 	text-indent: -1em;
 	padding-left: 1em;
 }
 
-*[epub|type~="z3998:poem"] br,
-*[epub|type~="z3998:verse"] br{
+[epub|type~="z3998:poem"] br,
+[epub|type~="z3998:verse"] br{
 	display: none;
 }
 
-*[epub|type~="z3998:poem"] p + p{
+[epub|type~="z3998:poem"] p + p{
 	margin-top: 1em;
 }
 
-*[epub|type~="z3998:poem"] + p,
-*[epub|type~="z3998:verse"] + p{
+[epub|type~="z3998:poem"] + p,
+[epub|type~="z3998:verse"] + p{
 	text-indent: 0;
 }
