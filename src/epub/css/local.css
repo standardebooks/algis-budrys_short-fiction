@@ -52,8 +52,7 @@ table ul{
 	font-style: italic;
 }
 
-.thought p,
-table + p{
+.thought p{
 	text-indent: 0;
 }
 
