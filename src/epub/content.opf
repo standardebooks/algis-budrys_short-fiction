@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Short Fiction</dc:title>
 		<meta property="file-as" refines="#title">Short Fiction</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
@@ -34,19 +34,22 @@
 		<dc:subject id="subject-3">Short stories</dc:subject>
 		<dc:subject id="subject-4">Human-alien encounters -- Fiction</dc:subject>
 		<dc:subject id="subject-5">Telepathy -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/30828</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/26191</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/22967</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/34420</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/34420</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85118629</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2008111729</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85121813</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008105650</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2008112698</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">Seven science fiction short stories by author Algis Budrys.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Algis Budrys’ science fiction writing career is long and storied. This collection of seven of his early stories published in science fiction pulp magazines is a window into his imagination and style.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/40968</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/30828</dc:source>
