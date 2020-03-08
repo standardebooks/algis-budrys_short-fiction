@@ -60,8 +60,8 @@
 		<dc:source>https://www.gutenberg.org/ebooks/51726</dc:source>
 		<dc:source>https://archive.org/details/1963-05_IF_modified/page/n60/mode/1up</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/61389</dc:source>
-		<meta property="se:word-count">41762</meta>
-		<meta property="se:reading-ease.flesch">75.71</meta>
+		<meta property="se:word-count">48364</meta>
+		<meta property="se:reading-ease.flesch">75.4</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Algis_Budrys#Short_stories</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/algis-budrys_short-fiction</meta>
 		<dc:creator id="author">Algis Budrys</dc:creator>
