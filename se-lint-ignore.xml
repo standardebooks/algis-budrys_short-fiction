@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="wall-of-crystal-eye-of-night.xhtml">
+		<ignore>
+			<code>t-030</code>
+			<reason>TTV is Tele-TV, and TV is not set with periods or spaces.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
