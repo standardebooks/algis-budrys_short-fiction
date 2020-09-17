@@ -30,7 +30,6 @@ article > header [epub|type~="epigraph"]{
 }
 /* End epigraphs in section headers */
 
-i i,
 table span{
 	font-style: normal;
 }
