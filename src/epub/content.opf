@@ -45,6 +45,7 @@
 		<meta property="term" refines="#subject-5">sh2008112698</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">Seven science fiction short stories by author Algis Budrys.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/algis-budrys"&gt;Algis Budrys’&lt;/a&gt; science fiction writing career is long and storied. This collection of his early stories published in science fiction pulp magazines is a window into his imagination and style.&lt;/p&gt;
