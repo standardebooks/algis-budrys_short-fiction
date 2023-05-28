@@ -51,18 +51,33 @@
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/algis-budrys"&gt;Algis Budrys’&lt;/a&gt; science fiction writing career is long and storied. This collection of his early stories published in science fiction pulp magazines is a window into his imagination and style.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
-		<dc:source>https://www.gutenberg.org/ebooks/40968</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/30828</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/26191</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/22967</dc:source>
+		<!-- Riya’s Foundling - 1953 -->
 		<dc:source>https://www.gutenberg.org/ebooks/34420</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/51589</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/51726</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/61389</dc:source>
-		<dc:source>https://archive.org/details/1963-05_IF_modified</dc:source>
-		<!-- Blood on My Jets -->
+		<dc:source>https://archive.org/details/Science_Fiction_Stories_01_1953/</dc:source>
+		<!-- Blood on My Jets - 1953-07 -->
 		<dc:source>https://www.gutenberg.org/ebooks/68674</dc:source>
 		<dc:source>https://archive.org/details/Rocket_Stories_v01n02_1953-07_slpn</dc:source>
+		<!-- Desire No More - 1954-01 -->
+		<dc:source>https://www.gutenberg.org/ebooks/40968</dc:source>
+		<dc:source>https://archive.org/details/Dynamic_Science_Fiction_Volume_1_Number_6_</dc:source>
+		<!-- Citadel - 1955-02 -->
+		<dc:source>https://www.gutenberg.org/ebooks/26191</dc:source>
+		<dc:source>https://archive.org/details/sim_astounding-science-fiction_1955-02_54_6</dc:source>
+		<!-- The Barbarians (as John Sentry) - 1958-02 -->
+		<dc:source>https://www.gutenberg.org/ebooks/30828</dc:source>
+		<dc:source>https://archive.org/details/If_Worlds_Of_Science_Fiction_v08n02_1958-02.Quinn_AKv1.0</dc:source>
+		<!-- The Stoker and the Stars (as John Sentry) - 1959-02 -->
+		<dc:source>https://www.gutenberg.org/ebooks/22967</dc:source>
+		<dc:source>https://archive.org/details/sim_astounding-science-fiction_1959-02_62_6</dc:source>
+		<!-- Wall of Crystal, Eye of Night - 1961-12 -->
+		<dc:source>https://www.gutenberg.org/ebooks/51726</dc:source>
+		<dc:source>https://archive.org/details/Galaxy_v20n02_1961-12_modified</dc:source>
+		<!-- The Rag and Bone Men - 1962-02 -->
+		<dc:source>https://www.gutenberg.org/ebooks/51589</dc:source>
+		<dc:source>https://archive.org/details/Galaxy_v20n02_1962-02</dc:source>
+		<!-- Die, Shadow! - 1963-05 -->
+		<dc:source>https://www.gutenberg.org/ebooks/61389</dc:source>
+		<dc:source>https://archive.org/details/1963-05_IF_modified</dc:source>
 		<meta property="se:word-count">48387</meta>
 		<meta property="se:reading-ease.flesch">75.4</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Algis_Budrys#Short_stories</meta>
