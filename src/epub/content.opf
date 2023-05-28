@@ -57,6 +57,8 @@
 		<!-- Blood on My Jets - 1953-07 -->
 		<dc:source>https://www.gutenberg.org/ebooks/68674</dc:source>
 		<dc:source>https://archive.org/details/Rocket_Stories_v01n02_1953-07_slpn</dc:source>
+		<!-- Firegod (as William Scarff) - also in same scan 1953-07 -->
+		<dc:source>https://www.gutenberg.org/ebooks/68529</dc:source>
 		<!-- Desire No More - 1954-01 -->
 		<dc:source>https://www.gutenberg.org/ebooks/40968</dc:source>
 		<dc:source>https://archive.org/details/Dynamic_Science_Fiction_Volume_1_Number_6_</dc:source>
@@ -138,6 +140,7 @@
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/desire-no-more.xhtml" id="desire-no-more.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/die-shadow.xhtml" id="die-shadow.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/firegod.xhtml" id="firegod.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/riyas-foundling.xhtml" id="riyas-foundling.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-barbarians.xhtml" id="the-barbarians.xhtml" media-type="application/xhtml+xml"/>
@@ -153,6 +156,7 @@
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="riyas-foundling.xhtml"/>
 		<itemref idref="blood-on-my-jets.xhtml"/>
+		<itemref idref="firegod.xhtml"/>
 		<itemref idref="desire-no-more.xhtml"/>
 		<itemref idref="citadel.xhtml"/>
 		<itemref idref="the-barbarians.xhtml"/>
